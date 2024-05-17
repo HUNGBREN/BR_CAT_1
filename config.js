@@ -1,0 +1,16 @@
+const CONFIG = {
+  introTitle: "Hê luu!",
+  introDesc: `Anh có điều này muốn hỏi em, nhớ phải trả lời thật lòng nhé`,
+  btnIntro: "Oke",
+  title: "Ngày mai em có muốn đi chơi với anh khum?? 😙",
+  desc: "Em không trả lời hoặc thoát ra, tức là em đồng ý đó :)) ",
+  btnYes: "Em đồng ý <3",
+  btnNo: "Anh mơ à",
+  question: "Nói cho anh lý do vì sao em đồng ý đii <3",
+  btnReply: "Gửi cho anh <3",
+  reply: "Tại vì anh đẹp trai <3 =))",
+  mess: "Anh biết mà 🥰😘😘",
+  messDesc: "inbox cho anh luôn nhé",
+  btnAccept: "Oki lun <3",
+  messLink: "https://www.tiktok.com/@hungbren",
+};
